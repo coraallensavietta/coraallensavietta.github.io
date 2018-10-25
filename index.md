@@ -1,0 +1,3 @@
+#Cora Allen-Coleman
+Statistics PhD Candidate
+University of Wisconsin-Madison
