@@ -1,4 +1,4 @@
-#Cora Allen-Coleman   
+# Cora Allen-Coleman   
 Statistics PhD Candidate  
 University of Wisconsin-Madison  
 ![](https://coraallencoleman.github.io/pic.jpeg)
@@ -6,7 +6,7 @@ University of Wisconsin-Madison
 [github](https://github.com/coraallencoleman)
 [Mendeley](https://www.mendeley.com/profiles/cora--allen-coleman/)
 
-##Current Projects:  
+## Current Projects:  
 Full Likelihood Phylogenetic Networks with Professor Cécile Ané, part of [PhyloNetworks Julia Package](https://github.com/crsl4/PhyloNetworks.jl)  
 Grouping Within Ranking with Professor Ron Gangnon   
 
