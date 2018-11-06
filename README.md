@@ -1,8 +1,5 @@
 <img src="https://coraallencoleman.github.io/pic.jpg">
-Cora Allen-Coleman  
-[**resume**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf)[**github**](https://github.com/coraallencoleman)
-[**mendeley**](https://www.mendeley.com/profiles/cora--allen-coleman/)  
-Statistics PhD Candidate, University of Wisconsin-Madison    
+[**resume**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf) [**github**](https://github.com/coraallencoleman) [**mendeley**](https://www.mendeley.com/profiles/cora--allen-coleman/)
 
 # Current Research 
 **University of Wisconsin-Madison Department of Statistics**  
