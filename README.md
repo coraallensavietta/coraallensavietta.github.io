@@ -1,7 +1,7 @@
 ---
 title: Cora Allen-Coleman
 ---
-![size = 0.01](https://coraallencoleman.github.io/pic.jpg)
+![height = 0.20](https://coraallencoleman.github.io/pic.jpg)
 # Cora Allen-Coleman  
 Statistics PhD Candidate  
 University of Wisconsin-Madison  
