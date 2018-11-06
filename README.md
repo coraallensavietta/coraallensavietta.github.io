@@ -1,6 +1,3 @@
----
-title: Cora Allen-Coleman
----
 ![height = 0.20](https://coraallencoleman.github.io/pic.jpg)
 # Cora Allen-Coleman  
 Statistics PhD Candidate  
