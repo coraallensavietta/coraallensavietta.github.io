@@ -1,7 +1,8 @@
+<img src="https://coraallencoleman.github.io/pic.jpg" width="15" /> 
 # Cora Allen-Coleman   
 Statistics PhD Candidate  
 University of Wisconsin-Madison 
-<img src="https://coraallencoleman.github.io/pic.jpg" width="20" /> 
+
 #![size = 0.5](https://coraallencoleman.github.io/pic.jpg)
 [resume](https://coraallencoleman.github.io/coraallencoleman_resume.pdf)
 [github](https://github.com/coraallencoleman)
