@@ -1,7 +1,3 @@
----
-title: Cora Allen-Coleman
-layout: post
----
 ![size = 0.05](https://coraallencoleman.github.io/pic.jpg)
 # Cora Allen-Coleman  
 Statistics PhD Candidate  
