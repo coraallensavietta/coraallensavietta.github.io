@@ -5,7 +5,8 @@ University of Wisconsin-Madison
 
 [**RESUME**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf)
 [**GITHUB**](https://github.com/coraallencoleman)
-[**MENDELEY**](https://www.mendeley.com/profiles/cora--allen-coleman/)   
+[**MENDELEY**](https://www.mendeley.com/profiles/cora--allen-coleman/) 
+     
 Statistician with 6 years of theoretical and applied statistics experience and 2 years of software development experience. Currently developing software in Julia for efficient search & model comparison in complex network space.
 
 # Current Research 
