@@ -1,4 +1,4 @@
-![height = 0.20](https://coraallencoleman.github.io/pic.jpg)
+![](https://coraallencoleman.github.io/pic.jpg | width=50)
 # Cora Allen-Coleman  
 Statistics PhD Candidate  
 University of Wisconsin-Madison  
