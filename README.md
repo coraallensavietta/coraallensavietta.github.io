@@ -1,4 +1,4 @@
-<img src="https://coraallencoleman.github.io/pic.jpg" width = 200>
+<img src="https://coraallencoleman.github.io/pic.jpg">
 [**resume**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf) [**github**](https://github.com/coraallencoleman) [**mendeley**](https://www.mendeley.com/profiles/cora--allen-coleman/)
 
 # Current Research 
