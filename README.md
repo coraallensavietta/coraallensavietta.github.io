@@ -1,4 +1,4 @@
-![](https://coraallencoleman.github.io/pic.jpg | width=50)
+<img src="https://coraallencoleman.github.io/pic.jpg" width="50" height="70">
 # Cora Allen-Coleman  
 Statistics PhD Candidate  
 University of Wisconsin-Madison  
