@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-#url: "https://coraallencoleman.github.io/"
-#baseurl: ""
+url: "https://coraallencoleman.github.io/"
+baseurl: ""
 # Name of website
 title: Cora Allen-Coleman
 
