@@ -1,10 +1,8 @@
 <img src="https://coraallencoleman.github.io/pic.jpg">
-Cora Allen-Coleman
-Statistics PhD Candidate, University of Wisconsin-Madison  
-[**resume**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf)  
-[**github**](https://github.com/coraallencoleman)  
+Cora Allen-Coleman  
+[**resume**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf)[**github**](https://github.com/coraallencoleman)
 [**mendeley**](https://www.mendeley.com/profiles/cora--allen-coleman/)  
-  **Statistician with 6 years of theoretical and applied statistics experience and 2 years of software development experience. Currently developing software in Julia for efficient search & model comparison in complex network space.**  
+Statistics PhD Candidate, University of Wisconsin-Madison    
 
 # Current Research 
 **University of Wisconsin-Madison Department of Statistics**  
