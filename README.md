@@ -1,12 +1,8 @@
 <img src="https://coraallencoleman.github.io/pic.jpg">
-<p>
-<style
-  type="text/css">
-    <a href="https://coraallencoleman.github.io/coraallencoleman_resume.pdf" title="resume">foo</a>
-    <a href="https://www.mendeley.com/profiles/cora--allen-coleman/"> title="mendeley">foo</a>{color:blue;}
-</style>
-</p>
 
+[**resume**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf) 
+[**linkedin**](https://www.linkedin.com/in/cora-allen-coleman/)
+[**mendeley**](https://www.mendeley.com/profiles/cora--allen-coleman/)
 
 # Current Research 
 **University of Wisconsin-Madison Department of Statistics**  
