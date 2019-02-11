@@ -8,6 +8,9 @@
 **University of Wisconsin-Madison Department of Statistics**  
 Developing software in Julia for efficient full likelihood-based network methods with Professor Cécile Ané, as part of [**PhyloNetworks Julia Package**](https://github.com/crsl4/PhyloNetworks.jl)
 
+**University of Wisconsin-Madison Department of Biostatistics**  
+Developing R Package ClusterRank for Clustered Ranking with Professor Ron Gangnon. [**ClusterRank R Package**](https://github.com/coraallencoleman/ClusterRank) creates complete rankings with mixture model clustering & visualizations.
+
 # Applied Data Science Projects  
 **University of Wisconsin-Madison Department of Epidemiology**  
 Spatial analysis of breast cancer incidence and survival using generalized additive models, missing data imputation, and variable width spatial smoothing. *Paper in preparation*
