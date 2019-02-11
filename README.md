@@ -16,4 +16,4 @@ Developing R Package ClusterRank for Clustered Ranking with Professor Ron Gangno
 Spatial analysis of breast cancer incidence and survival using generalized additive models, missing data imputation, and variable width spatial smoothing. *Paper in preparation*
 
 **University of Wisconsin-Madison Department of Medicine**  
-Leading an applied analysis of longitudinal, survey, and observational data to evaluate UW’s medical scientist training program. *Paper in preparation*
+Leading an applied analysis of longitudinal, survey, and observational data to evaluate UW’s medical scientist training program. *Paper under review at Academic Medicine*
