@@ -9,11 +9,11 @@
 Developing software in Julia for efficient full likelihood-based network methods with Professor Cécile Ané, as part of [**PhyloNetworks Julia Package**](https://github.com/crsl4/PhyloNetworks.jl)
 
 **University of Wisconsin-Madison Department of Biostatistics**  
-Developing R Package ClusterRank for Clustered Ranking with Professor Ron Gangnon. [**ClusterRank R Package**](https://github.com/coraallencoleman/ClusterRank) creates complete rankings with mixture model clustering & visualizations.
+Developing [**ClusterRank R Package**](https://github.com/coraallencoleman/ClusterRank) for mixture model clustered ranking with Professor Ron Gangnon. Uses inverse-variance weighted ranking and mixture models to produce simultaneous complete, optimal rankings with clustering, error estimates, and visualizations.
 
 # Applied Data Science Projects  
 **University of Wisconsin-Madison Department of Epidemiology**  
-Spatial analysis of breast cancer incidence and survival using generalized additive models, missing data imputation, and variable width spatial smoothing. *Paper in preparation*
+Lead analyst for a spatial analysis of breast cancer incidence and survival using generalized additive models, multiple imputation, and variable width smoothing techniques. *Paper in preparation*
 
 **University of Wisconsin-Madison Department of Medicine**  
-Leading an applied analysis of longitudinal, survey, and observational data to evaluate UW’s medical scientist training program. *Paper under review at Academic Medicine*
+Lead analyst for a study of UW’s MD/PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to answer a diverse set of applied questions. *Paper under review at Academic Medicine*
