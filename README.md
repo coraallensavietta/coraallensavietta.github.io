@@ -1,5 +1,6 @@
 <img src="https://coraallencoleman.github.io/pic.jpg">
 
+<a href="https://coraallencoleman.github.io/coraallencoleman_resume.pdf" target="_blank">resume</a>
 [**resume**](https://coraallencoleman.github.io/coraallencoleman_resume.pdf) 
 [**linkedin**](https://www.linkedin.com/in/cora-allen-coleman/)
 [**mendeley**](https://www.mendeley.com/profiles/cora--allen-coleman/)
