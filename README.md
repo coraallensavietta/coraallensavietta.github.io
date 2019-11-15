@@ -20,9 +20,9 @@ Lead analyst for a spatial analysis of breast cancer incidence and survival usin
 Lead analyst for a study of UW’s MD/PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to answer a diverse set of applied questions. *Paper under review at Journal of Women's Health*
 
 # Conference Presentations  
-**Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of Small Area Health Outcomes Using Nonparametric Empirical Bayes Mixture Models. Accepted as contributed presentation at the International Conference on Health Policy Statistics January 2020
-**Allen-Coleman, C.**, Ané, Cécile M. Illuminate Evolutionary History with Phylogenetic Networks. Presented at the Joint Statistical Meetings in August 2019
-**Allen-Coleman, C.**, Ané, Cécile M. Estimating Evolutionary Rates Efficiently in Phylogenetic Networks. Presented at the Great Lakes Bioinformatics Conference in May 2019
-**Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of County-Level Health Outcomes. Contributed presentation at the Society for Epidemiologic Research Meeting in March 2019
-**Allen-Coleman, C.**, Gangnon, R.E. Making Ranking Priorities More Explicit. Contributed paper talk at the Joint Statistical Meetings in August 2018
-**Allen-Coleman, C.**, Trentham-Dietz, A., McElroy, J.A., Hampton, J.A., Newcomb, P.A., Gangnon, R.E. Geographic Location and Mortality after Breast Cancer Diagnosis. Presented at the Society for Epidemiologic Research Meeting in June 2018
+**Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of Small Area Health Outcomes Using Nonparametric Empirical Bayes Mixture Models. Accepted as contributed presentation at the International Conference on Health Policy Statistics January 2020  
+**Allen-Coleman, C.**, Ané, Cécile M. Illuminate Evolutionary History with Phylogenetic Networks. Presented at the Joint Statistical Meetings in August 2019  
+**Allen-Coleman, C.**, Ané, Cécile M. Estimating Evolutionary Rates Efficiently in Phylogenetic Networks. Presented at the Great Lakes Bioinformatics Conference in May 2019  
+**Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of County-Level Health Outcomes. Contributed presentation at the Society for Epidemiologic Research Meeting in March 2019  
+**Allen-Coleman, C.**, Gangnon, R.E. Making Ranking Priorities More Explicit. Contributed paper talk at the Joint Statistical Meetings in August 2018  
+**Allen-Coleman, C.**, Trentham-Dietz, A., McElroy, J.A., Hampton, J.A., Newcomb, P.A., Gangnon, R.E. Geographic Location and Mortality after Breast Cancer Diagnosis. Presented at the Society for Epidemiologic Research Meeting in June 2018  
