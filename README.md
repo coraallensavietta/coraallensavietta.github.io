@@ -1,7 +1,7 @@
 <img src="https://coraallensavietta.github.io/pic.jpg">
 
 <a href="https://coraallensavietta.github.io/coraallensavietta_resume.pdf" target="_blank">resume</a>
-<a href="https://coraallensavietta.github.io/coraallensavietta_cv.pdf" target="_blank">cv</a>
+<!-- <a href="https://coraallensavietta.github.io/coraallensavietta_cv.pdf" target="_blank">cv</a> -->
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">linkedin</a>
 <a href="https://www.mendeley.com/profiles/cora--allen-savietta/" target="_blank">mendeley</a>
 
