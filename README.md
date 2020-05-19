@@ -4,9 +4,8 @@
 <!-- <a href="https://coraallensavietta.github.io/coraallensavietta_cv.pdf" target="_blank">cv</a> -->
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">linkedin</a>
 <a href="https://www.mendeley.com/profiles/cora--allen-savietta/" target="_blank">mendeley</a>
-<a href="https://stat.wisc.edu/staff/allen-savietta-cora" target="_blank">University of Wisconsin-Madison Statistics Page</a>
 
-Cora Allen-Savietta enjoys building useful statistical tools to solve applied problems. In her dissertation work with Professor Cécile Ané at the University of Wisconin-Madison, she has developed a method to recover historical evolutionary relationships between species from modern DNA sequences. Her open-source phylogenetic network estimation software, PhyLiNC, is now available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
+Cora Allen-Savietta enjoys building useful statistical tools to solve applied problems. In her dissertation work with Professor Cécile Ané at the <a href="https://stat.wisc.edu/staff/allen-savietta-cora" target="_blank">University of Wisconsin-Madison</a>, she has developed a method to recover historical evolutionary relationships between species from modern DNA sequences. Her open-source phylogenetic network estimation software, PhyLiNC, is now available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
 
 # Applied Data Science Projects  
 **University of Wisconsin-Madison Department of Medicine**  
