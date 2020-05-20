@@ -17,12 +17,17 @@ Lead analyst for a spatial analysis of breast cancer incidence and survival usin
 # Peer-Reviewed Publications  
 **Allen-Savietta C**, Ané C. Phylogenetic Network Structure Identifiability from
 Concatenated Genetic Sequences. In preparation to submit in Summer 2020.  
-Heffron AS, Braun KM, **Allen-Savietta C**, Filut A, Hanewall C, Huttenlocher A, Handelsman J, and Carnes M. <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training.</a> Journal of Women's Health
+
+Heffron AS, Braun KM, **Allen-Savietta C**, Filut A, Hanewall C, Huttenlocher A, Handelsman J, and Carnes M. <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training.</a> Journal of Women's Health  
+
 Fischer MA, **Allen-Coleman C**, Farrell SF, Schneeweiss S. <a href="https://pubmed.ncbi.nlm.nih.gov/26388438/" target="_blank">Stakeholder assessment of comparative effectiveness research needs for Medicaid
 populations.</a> Journal of Comparative Effectiveness Research  
+
 Bateman BT, Huybrechts KF, Maeda A, Desai RJ, Patorno E, Seely EW, Ecker JL, **Allen-Coleman C**, Mogun H, Hernandez-Diaz S, Fischer MA. <a href="https://pubmed.ncbi.nlm.nih.gov/26241414/" target="_blank">Calcium channel blocker exposure in late pregnancy and the risk of neonatal seizures: A cohort
 study.</a> Obstetrics and Gynecology  
+
 Bateman BT, Hernandez-Diaz S, Fischer MA, Seely EW, Ecker JL, Franklin JM, Desai RJ, **Allen-Coleman C**, Mogun H, Avorn J, Huybrechts KF. <a href="https://www.bmj.com/content/350/bmj.h1035" target="_blank">Statins and congenital malformations: a cohort study.</a> BMJ  
+
 Polinski JM, Kesselheim AS, Frolkis JP, Wescott P, **Allen-Coleman C**, Fischer MA. <a href="https://pubmed.ncbi.nlm.nih.gov/24838119/" target="_blank">A matter of trust: Patient barriers to primary medication adherence.</a> Health Education Research  
 
 # Conference Presentations  
