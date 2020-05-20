@@ -17,6 +17,17 @@ Lead analyst for a spatial analysis of breast cancer incidence and survival usin
 **University of Wisconsin-Madison Department of Biostatistics**  
 Developing <a href="https://github.com/coraallensavietta/ClusterRank" target="_blank">ClusterRank R Package</a> for mixture model clustered ranking with Professor Ron Gangnon. Uses inverse-variance weighted ranking and mixture models to produce simultaneous complete, optimal rankings with clustering, error estimates, and visualizations.
 
+# Peer-Reviewed Publications  
+**Allen-Savietta C**, Ané C. Phylogenetic Network Structure Identifiability from
+Concatenated Genetic Sequences. In preparation to submit in Summer 2020.  
+<a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Heffron AS, Braun KM, Allen-Savietta C, Filut A, ]Hanewall C, HuttenlocherA, Handelsman J, and Carnes M. ¯Journal of Women's Health. ahead of print</a>  
+<a href="https://pubmed.ncbi.nlm.nih.gov/26388438/" target="_blank">Fischer MA, Allen-Coleman C, Farrell SF, Schneeweiss S. Stakeholder assessment of comparative effectiveness research needs for Medicaid
+populations. Journal of Comparative Effectiveness Research. 2015 Sept 21.</a>  
+<a href="https://pubmed.ncbi.nlm.nih.gov/26241414/" target="_blank">Bateman BT, Huybrechts KF, Maeda A, Desai RJ, Patorno E, Seely EW, Ecker JL, Allen-Coleman C, Mogun H, Hernandez-Diaz S, Fischer MA. Calcium channel blocker exposure in late pregnancy and the risk of neonatal seizures: A cohort
+study. Obstetrics and Gynecology. 2015 Aug; 126(2): 271-8.</a>  
+<a href="https://www.bmj.com/content/350/bmj.h1035" target="_blank">Bateman BT, Hernandez-Diaz S, Fischer MA, Seely EW, Ecker JL, Franklin JM, Desai RJ, Allen-Coleman C, Mogun H, Avorn J, Huybrechts KF. Statins and congenital malformations: a cohort study. BMJ. 2015 Mar 17;350:h1035.</a>  
+<a href="https://pubmed.ncbi.nlm.nih.gov/24838119/" target="_blank">Polinski JM, Kesselheim AS, Frolkis JP, Wescott P, Allen-Coleman C, Fischer MA. A matter of trust: Patient barriers to primary medication adherence. Health Education Research. 2014; 29: 755-63.</a>  
+
 # Conference Presentations  
 **Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of Small Area Health Outcomes Using Nonparametric Empirical Bayes Mixture Models. Accepted as contributed presentation at the International Conference on Health Policy Statistics January 2020  
 
