@@ -14,9 +14,6 @@ Lead analyst for a study of UW’s MD/PhD training program. Used a variety of mu
 **University of Wisconsin-Madison Department of Epidemiology**  
 Lead analyst for a spatial analysis of breast cancer incidence and survival using generalized additive models, multiple imputation, and variable width smoothing techniques. *Paper in preparation*
 
-**University of Wisconsin-Madison Department of Biostatistics**  
-Developing <a href="https://github.com/coraallensavietta/ClusterRank" target="_blank">ClusterRank R Package</a> for mixture model clustered ranking with Professor Ron Gangnon. Uses inverse-variance weighted ranking and mixture models to produce simultaneous complete, optimal rankings with clustering, error estimates, and visualizations.
-
 # Peer-Reviewed Publications  
 **Allen-Savietta C**, Ané C. Phylogenetic Network Structure Identifiability from
 Concatenated Genetic Sequences. In preparation to submit in Summer 2020.  
