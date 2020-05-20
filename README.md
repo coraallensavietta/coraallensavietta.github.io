@@ -17,13 +17,13 @@ Lead analyst for a spatial analysis of breast cancer incidence and survival usin
 # Peer-Reviewed Publications  
 **Allen-Savietta C**, Ané C. Phylogenetic Network Structure Identifiability from
 Concatenated Genetic Sequences. In preparation to submit in Summer 2020.  
-Heffron AS, Braun KM, **Allen-Savietta C**, Filut A, ]Hanewall C, Huttenlocher A, Handelsman J, and Carnes M. <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training.</a> Journal of Women's Health. ahead of print  
+Heffron AS, Braun KM, **Allen-Savietta C**, Filut A, Hanewall C, Huttenlocher A, Handelsman J, and Carnes M. <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training.</a> Journal of Women's Health. ahead of print  
 Fischer MA, **Allen-Coleman C**, Farrell SF, Schneeweiss S. <a href="https://pubmed.ncbi.nlm.nih.gov/26388438/" target="_blank">Stakeholder assessment of comparative effectiveness research needs for Medicaid
 populations.</a> Journal of Comparative Effectiveness Research. 2015 Sept 21.  
 Bateman BT, Huybrechts KF, Maeda A, Desai RJ, Patorno E, Seely EW, Ecker JL, **Allen-Coleman C**, Mogun H, Hernandez-Diaz S, Fischer MA. <a href="https://pubmed.ncbi.nlm.nih.gov/26241414/" target="_blank">Calcium channel blocker exposure in late pregnancy and the risk of neonatal seizures: A cohort
-study.</a> Obstetrics and Gynecology. 2015 Aug; 126(2): 271-8.  
-Bateman BT, Hernandez-Diaz S, Fischer MA, Seely EW, Ecker JL, Franklin JM, Desai RJ, **Allen-Coleman C**, Mogun H, Avorn J, Huybrechts KF. <a href="https://www.bmj.com/content/350/bmj.h1035" target="_blank">Statins and congenital malformations: a cohort study.</a> BMJ. 2015 Mar 17;350:h1035.  
-Polinski JM, Kesselheim AS, Frolkis JP, Wescott P, **Allen-Coleman C**, Fischer MA. <a href="https://pubmed.ncbi.nlm.nih.gov/24838119/" target="_blank">A matter of trust: Patient barriers to primary medication adherence.</a> Health Education Research. 2014; 29: 755-63.  
+study.</a> Obstetrics and Gynecology. 2015 Aug.  
+Bateman BT, Hernandez-Diaz S, Fischer MA, Seely EW, Ecker JL, Franklin JM, Desai RJ, **Allen-Coleman C**, Mogun H, Avorn J, Huybrechts KF. <a href="https://www.bmj.com/content/350/bmj.h1035" target="_blank">Statins and congenital malformations: a cohort study.</a> BMJ. 2015 Mar 17.  
+Polinski JM, Kesselheim AS, Frolkis JP, Wescott P, **Allen-Coleman C**, Fischer MA. <a href="https://pubmed.ncbi.nlm.nih.gov/24838119/" target="_blank">A matter of trust: Patient barriers to primary medication adherence.</a> Health Education Research. 2014;29.  
 
 # Conference Presentations  
 **Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of Small Area Health Outcomes Using Nonparametric Empirical Bayes Mixture Models. Accepted as contributed presentation at the International Conference on Health Policy Statistics January 2020  
