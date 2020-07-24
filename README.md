@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">linkedin</a>
 <a href="https://www.mendeley.com/profiles/cora--allen-savietta/" target="_blank">mendeley</a>
 
-Cora Allen-Savietta enjoys building useful statistical tools to solve real problems.
+Cora Allen-Savietta builds useful statistical tools to solve real problems. Building open-source software to uncover evolutionary mysteries at <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl</a>
 
 # Current Applied Data Science Projects  
 **University of Wisconsin-Madison Department of Statistics**
