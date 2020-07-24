@@ -7,14 +7,14 @@
 
 Data Scientist and Statistics PhD Candidate with 8 years of statistics experience and 2 years of software development experience.
 # Current Data Science Projects  
-**University of Wisconsin Department of Statistics**
-In her dissertation work with Professor Cécile Ané, Cora is developing software to uncover ancient evolutionary history from modern DNA. Her open-source phylogenetic network estimation software, PhyLiNC, is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
+**Reconstructing Ancient Evolutionary History using Modern DNA Sequences**  
+In her dissertation work with Professor Cécile Ané at the University of Wisconsin Department of Statistics, Cora is developing software to uncover ancient evolutionary history from modern DNA. Her open-source phylogenetic network estimation software is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
 
-**University of Wisconsin Department of Medicine**  
-Lead analyst for a study of UW’s MD/PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to deliver actionable, data-driven insights. Paper now available at *Journal of Women's Health*: <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training</a>
+**Delivering Actionable Data-Driven Policy Recommendations**  
+Lead analyst for a study of the University of Wisconsin's MD PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to deliver actionable, data-driven insights. Paper now available at *Journal of Women's Health*: <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training</a>
 
-**University of Wisconsin Department of Epidemiology**  
-Lead analyst for a spatial analysis of breast cancer incidence and survival using generalized additive models, multiple imputation, and variable width smoothing techniques.
+**Identifying Geographic Health Disparities from Registry Data**  
+Lead analyst for a spatial analysis of breast cancer incidence and survival using generalized additive models, multiple imputation, and variable width smoothing techniques at the University of Wisconsin Department of Epidemiology.
 
 # Peer-Reviewed Publications  
 **Allen-Savietta C**, Ané C. Phylogenetic Network Structure Identifiability from
