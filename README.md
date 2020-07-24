@@ -5,9 +5,8 @@
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">linkedin</a>
 <a href="https://www.mendeley.com/profiles/cora--allen-savietta/" target="_blank">mendeley</a>
 
-Cora Allen-Savietta builds useful statistical tools to solve real problems. Building open-source software to uncover evolutionary mysteries at <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl</a>
-
-# Current Applied Data Science Projects  
+Data Scientist and Statistics PhD Candidate with 8 years of statistics experience and 2 years of software development experience.
+# Current Data Science Projects  
 **University of Wisconsin-Madison Department of Statistics**
 In her dissertation work with Professor Cécile Ané at the <a href="https://stat.wisc.edu/staff/allen-savietta-cora" target="_blank">University of Wisconsin-Madison</a>, Cora is developing software to uncover ancient evolutionary history using modern DNA. Her open-source phylogenetic network estimation software, PhyLiNC, is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
 
