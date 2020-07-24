@@ -7,7 +7,7 @@
 
 Data Scientist and Statistics PhD Candidate with 8 years of statistics experience and 2 years of software development experience.
 # Current Data Science Projects  
-**Reconstructing Ancient Evolutionary History using Modern DNA Sequences**  
+**Reconstructing Ancient Evolution from Modern DNA**  
 In her dissertation work with Professor Cécile Ané at the University of Wisconsin Department of Statistics, Cora is developing software to uncover ancient evolutionary history from modern DNA. Her open-source phylogenetic network estimation software is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
 
 **Delivering Actionable Data-Driven Policy Recommendations**  
