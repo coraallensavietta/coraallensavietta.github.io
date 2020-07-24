@@ -8,17 +8,17 @@
 Data Scientist and Statistics PhD Candidate with 8 years of statistics experience and 2 years of software development experience.
 # Current Data Science Projects  
 **University of Wisconsin Department of Statistics**
-In her dissertation work with Professor Cécile Ané at the <a href="https://stat.wisc.edu/staff/allen-savietta-cora" target="_blank">University of Wisconsin</a>, Cora is developing software to uncover ancient evolutionary history using modern DNA. Her open-source phylogenetic network estimation software, PhyLiNC, is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
+In her dissertation work with Professor Cécile Ané, Cora is developing software to uncover ancient evolutionary history from modern DNA. Her open-source phylogenetic network estimation software, PhyLiNC, is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
 
 **University of Wisconsin Department of Medicine**  
-Lead analyst for a study of UW’s MD/PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to answer a diverse set of applied questions. Paper now available at *Journal of Women's Health*: <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training</a>
+Lead analyst for a study of UW’s MD/PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to deliver actionable, data-driven insights. Paper now available at *Journal of Women's Health*: <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training</a>
 
 **University of Wisconsin Department of Epidemiology**  
 Lead analyst for a spatial analysis of breast cancer incidence and survival using generalized additive models, multiple imputation, and variable width smoothing techniques.
 
 # Peer-Reviewed Publications  
 **Allen-Savietta C**, Ané C. Phylogenetic Network Structure Identifiability from
-Concatenated Genetic Sequences. In preparation to submit in December 2020.  
+Concatenated Genetic Sequences. In preparation to submit December 2020.  
 
 Heffron AS, Braun KM, **Allen-Savietta C**, Filut A, Hanewall C, Huttenlocher A, Handelsman J, and Carnes M. <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training.</a> Journal of Women's Health  
 
