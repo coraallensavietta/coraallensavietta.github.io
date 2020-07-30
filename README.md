@@ -11,7 +11,7 @@ Data Scientist and Statistics PhD Candidate with 8 years of statistics experienc
 In her dissertation work with Professor Cécile Ané at the University of Wisconsin Department of Statistics, Cora is developing software to uncover ancient evolutionary history from modern DNA. Her open-source phylogenetic network estimation software is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
 
 **Delivering Actionable Data-Driven Policy Recommendations**  
-Lead analyst for a study of the University of Wisconsin's MD PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to deliver actionable, data-driven insights. Paper now available at *Journal of Women's Health*: <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training</a>
+Lead analyst for a study of the University of Wisconsin's MD PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to deliver actionable, data-driven insights. Paper now available at *Journal of Women's Health*: <a href="https://pubmed.ncbi.nlm.nih.gov/32349608/" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training</a>
 
 **Identifying Geographic Health Disparities from Registry Data**  
 Lead analyst for a spatial analysis of breast cancer incidence and survival using generalized additive models, multiple imputation, and variable width smoothing techniques at the University of Wisconsin Department of Epidemiology.
@@ -33,7 +33,7 @@ Bateman BT, Hernandez-Diaz S, Fischer MA, Seely EW, Ecker JL, Franklin JM, Desai
 Polinski JM, Kesselheim AS, Frolkis JP, Wescott P, **Allen-Coleman C**, Fischer MA. <a href="https://pubmed.ncbi.nlm.nih.gov/24838119/" target="_blank">A matter of trust: Patient barriers to primary medication adherence.</a> Health Education Research  
 
 # Conference Presentations  
-**Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of Small Area Health Outcomes Using Nonparametric Empirical Bayes Mixture Models. Accepted as contributed presentation at the International Conference on Health Policy Statistics January 2020  
+**Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of Small Area Health Outcomes Using Nonparametric Empirical Bayes Mixture Models. Contributed presentation at the International Conference on Health Policy Statistics January 2020  
 
 **Allen-Coleman, C.**, Ané, Cécile M. Illuminate Evolutionary History with Phylogenetic Networks. Presented at the Joint Statistical Meetings in August 2019  
 
