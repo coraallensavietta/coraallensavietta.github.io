@@ -1,11 +1,9 @@
 <img src="https://coraallensavietta.github.io/pic.jpg">
-
-<a href="https://coraallensavietta.github.io/coraallensavietta_resume.pdf" target="_blank">Resume</a>
-<a href="https://coraallensavietta.github.io/coraallensavietta_cv.pdf" target="_blank">CV</a>
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">LinkedIn</a>
 
-Statistics PhD from the University of Wisconsin with 8 years of statistics experience and 2 years of software development experience.
-# Current Data Science Projects  
+Statistical Scientist at Berry Consultants  
+
+# Data Science Projects  
 **Reconstructing Ancient Evolution from Modern DNA**  
 In her dissertation work with Professor Cécile Ané at the University of Wisconsin Department of Statistics, Cora is developing software to uncover ancient evolutionary history from modern DNA. Her open-source phylogenetic network estimation software is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
 
