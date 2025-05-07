@@ -1,5 +1,5 @@
-<img src="https://coraallensavietta.github.io/pic.jpg">
-<a href="https://coraallensavietta.github.io/coraallensavietta_cv.pdf" target="_blank">CV</a>
+<img src="https://coraallensavietta.github.io/pic2.jpg">
+<a href="https://coraallensavietta.github.io/coraallensavietta_cv_05_2025.pdf" target="_blank">CV</a>
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">LinkedIn</a>
 
 Cora Allen-Savietta is a Statistical Scientist at Berry Consultants. She specializes in designing innovative clinical trials with adaptive sample sizes, complex primary endpoints, and flexible platform structures. 
