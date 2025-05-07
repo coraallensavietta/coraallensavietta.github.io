@@ -1,21 +1,19 @@
 <img src="https://coraallensavietta.github.io/pic.jpg">
+<a href="https://coraallensavietta.github.io/coraallensavietta_cv.pdf" target="_blank">CV</a>
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">LinkedIn</a>
 
-Statistical Scientist at Berry Consultants  
+Cora Allen-Savietta is a Statistical Scientist at Berry Consultants. She specializes in designing innovative clinical trials with adaptive sample sizes, complex primary endpoints, and flexible platform structures. 
 
-# Data Science Projects  
-**Reconstructing Ancient Evolution from Modern DNA**  
-In her dissertation work with Professor Cécile Ané at the University of Wisconsin Department of Statistics, Cora is developing software to uncover ancient evolutionary history from modern DNA. Her open-source phylogenetic network estimation software is available as part of the Julia package <a href="https://github.com/crsl4/PhyloNetworks.jl" target="_blank">PhyloNetworks.jl.</a>
+She works in various medical areas, including maternal health, heart failure, and progressive neurodegenerative diseases such as Parkinson’s and Alzheimer’s. She’s passionate about using a Bayesian framework to incorporate previous knowledge into future trial designs. For example, she’s used natural history data to simulate realistic control patients from a disease progression model and designed a phase III trial for a new cancer treatment with dynamic borrowing of the treatment effect across different tumor types. Cora is experienced in guiding statistical discussions and supporting clinical teams through conversations with regulators. 
 
-**Delivering Actionable Data-Driven Policy Recommendations**  
-Lead analyst for a study of the University of Wisconsin's MD PhD training program. Used a variety of multivariate generalized linear mixed effects models and creative visualizations to deliver actionable, data-driven insights. Paper now available at *Journal of Women's Health*: <a href="https://pubmed.ncbi.nlm.nih.gov/32349608/" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training</a>
+While fluent in statistical theory, she ensures that clarity is not lost in the technical detail and enjoys distilling complex ideas into clear visuals and summaries. 
 
-**Identifying Geographic Health Disparities from Registry Data**  
-Lead analyst for a spatial analysis of breast cancer incidence and survival using generalized additive models, multiple imputation, and variable width smoothing techniques at the University of Wisconsin Department of Epidemiology.
+Before joining Berry Consultants, Cora earned a Ph.D. in Statistics from the University of Wisconsin, where she developed statistical methods for phylogenetics, epidemiology, and public health. Prior to graduate school, she worked at Harvard Medical School, studying medication safety and efficacy during pregnancy.
 
 # Peer-Reviewed Publications  
-**Allen-Savietta C**, Ané C. Phylogenetic Network Structure Identifiability from
-Concatenated Genetic Sequences. In preparation to submit December 2020.  
+Marion J, Lorenzi E, **Allen-Savietta C**, Berry S, Viele K. Predictive Probabilities Made Simple: A Fast and Accurate Method for Clinical Trial Decision Making. Statistics in Medicine. (accepted, in press) (Marion, Lorenzi, & Allen-Savietta co-first authors)
+
+Overbey J, Mentz R, **Allen-Savietta C**, Navigating Composite Endpoints: Methods and Recommendations for Trial Design and Interpretation. Journal of Cardiac Failure. (accepted, in press)
 
 Heffron AS, Braun KM, **Allen-Savietta C**, Filut A, Hanewall C, Huttenlocher A, Handelsman J, and Carnes M. <a href="https://www.liebertpub.com/doi/abs/10.1089/jwh.2019.8094" target="_blank">Gender Can Influence Student Experiences in MD–PhD Training.</a> Journal of Women's Health  
 
@@ -30,6 +28,21 @@ Bateman BT, Hernandez-Diaz S, Fischer MA, Seely EW, Ecker JL, Franklin JM, Desai
 Polinski JM, Kesselheim AS, Frolkis JP, Wescott P, **Allen-Coleman C**, Fischer MA. <a href="https://pubmed.ncbi.nlm.nih.gov/24838119/" target="_blank">A matter of trust: Patient barriers to primary medication adherence.</a> Health Education Research  
 
 # Conference Presentations  
+
+**Allen-Savietta, C.** ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop September 2025 (invited session accepted)
+
+**Allen-Savietta, C.** Bridging the Gap between Bayesian and Frequentist Approaches in Clinical Trials for Drug Development. Summer Biometric Seminar, Medical University of Vienna June 2024
+
+**Allen-Savietta, C.** Forecasting with Confidence: Harnessing Predictive Probabilities in Adaptive Clinical Trial Design. Statisticians in the Pharmaceutical Industry PSI Conference June 2024
+
+**Allen-Savietta, C.** Forecasting with Confidence: Harnessing Predictive Probabilities in Practice. Society of Clinical Trials May 2024
+
+**Allen-Savietta, C.** Path to Prevention in Parkinson’s Disease: A Nested Platform Trial to Efficiently Identify Effective Treatments. Women in Statistics and Data Science October 2023
+
+Crawford, A., Quintana, M. Zuckerman, B., Schoenfeld, D. Invited session “Innovation with Hierarchical Composite Endpoints in Complex Trial Design” at ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop September 2023 (served as chair)
+
+Crawford, A. & **Allen-Savietta, C.** Flexible Bayesian Models for Hierarchical Composite Analyses. International Society for Bayesian Analysis July 2022
+
 **Allen-Coleman, C.**, Gangnon, R.E. Simultaneous Clustering and Ranking of Small Area Health Outcomes Using Nonparametric Empirical Bayes Mixture Models. Contributed presentation at the International Conference on Health Policy Statistics January 2020  
 
 **Allen-Coleman, C.**, Ané, Cécile M. Illuminate Evolutionary History with Phylogenetic Networks. Presented at the Joint Statistical Meetings in August 2019  
