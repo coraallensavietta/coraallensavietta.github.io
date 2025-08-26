@@ -1,4 +1,4 @@
-<img src="https://coraallensavietta.github.io/pic2.jpg">
+<img src="https://coraallensavietta.github.io/pic2.jpg" width="20">
 <a href="https://coraallensavietta.github.io/CAllenSavietta_CV_202508.pdf" target="_blank">CV</a>
 <a href="https://www.linkedin.com/in/cora-allen-savietta/" target="_blank">LinkedIn</a>
 
